@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"On the main screen, accessible at all times\", \"option2\": \"Within a specific section of the app, please specify\"}, {\"question 2\": \"What action should be triggered when the 'Hello World' button is pressed?\", \"option1\": \"Display a popup message saying 'Hello World'\", \"option2\": \"Navigate to another screen or perform a specific task, please specify\"}], \"input_token_count\": 261, \"output_token_count\": 115, \"time_taken\": \"0:00:04.808172\"}",
         "timestamp": "25072024080457",
         "message_id": "guest25072024080451"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button for analyzing new Ethereum transactions\", \"checked\": true}, {\"feature\": \"Implement real-time transaction notifications\", \"checked\": false}, {\"feature\": \"Enable transaction history search and filtering options\", \"checked\": true}, {\"feature\": \"Incorporate Ethereum wallet integration for direct analysis\", \"checked\": false}, {\"feature\": \"Display detailed analytics of transaction patterns over time\", \"checked\": true}, {\"feature\": \"Introduce customizable alerts for specific transaction thresholds\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 106, \"time_taken\": \"0:00:06.748035\"}",
+        "timestamp": "25072024080459",
+        "message_id": "guest25072024080451"
     }
 ]
